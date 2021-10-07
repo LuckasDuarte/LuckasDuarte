@@ -32,4 +32,4 @@
 
 </div>
   
-  ! [ Animação de cobra ] (https://github.com/LuckasDuarte/LuckasDuarte/blob/output/github-contribution-grid-snake.svg)
+ 
