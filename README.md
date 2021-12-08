@@ -5,8 +5,6 @@
 - 🏡 Sou de Aparecida-SP, Brasil
 - 📖 Estou cursando Engenharia da computação na instituição pública UNIVESP
 - 🐍 Pyton
-- ![image](https://user-images.githubusercontent.com/92119989/136450546-38568828-f27d-47d6-955e-db82ee878705.png) HTML
-- ![image](https://user-images.githubusercontent.com/92119989/136450599-268dc471-9582-4f1f-bf5d-fc4d53ddba1b.png) CSS
   <div align = "center">
   <a href="https://github.com/rafaballerini">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=LuckasDuarte&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -15,12 +13,6 @@
  
  <div style = "display: inline_block"> <br>
   <img align = "center" alt = "Luckas-py" height = "30" width = "40"
- src=https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg>
-  <img align = "center" alt = "Luckas-html" height = "30" width = "40"
- src=https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg>
-   <img align = "center" alt = "Luckas-css" height = "30" width = "40"
- src=https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg>
- 
 </div>
 
   <div>
