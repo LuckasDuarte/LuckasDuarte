@@ -4,7 +4,7 @@
 - 🔭 Trabalho como Jovem Aprendiz na logistica do Santuário Nacional de Aparecida
 - 🏡 Sou de Aparecida-SP, Brasil
 - 📖 Estou cursando Engenharia da computação na instituição pública UNIVESP
-- 🐍 Pyton
+-  
   <div align = "center">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=LuckasDuarte&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </div>
