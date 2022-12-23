@@ -1,7 +1,6 @@
 ### Olá, eu sou o Lucas Duarte!
 
 - 😎 Tenho 19 anos
-- 🔭 Trabalho como Jovem Aprendiz na logistica do Santuário Nacional de Aparecida
 - 🏡 Sou de Potim-SP, Brasil
 - 📖 Estou cursando Engenharia da computação na instituição pública UNIVESP
 
