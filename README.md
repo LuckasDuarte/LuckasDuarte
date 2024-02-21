@@ -1,7 +1,7 @@
 ### Olá, eu sou o Lucas Duarte!
 
-- 😎 Tenho 19 anos
-- 🏡 Sou de Potim-SP, Brasil
+- 😎 Tenho 20 anos
+- 🏡 Sou de Aparecida-SP, Brasil
 - 📖 Estou cursando Engenharia da computação na instituição pública UNIVESP
 
  <div align = "center" >
