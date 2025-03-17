@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas Duarte!
 
-- 😎 Tenho 20 anos
+- 😎 Tenho 22 anos
 - 🏡 Sou de Aparecida-SP, Brasil
 - 📖 Estou cursando Engenharia da computação na instituição pública UNIVESP
 
