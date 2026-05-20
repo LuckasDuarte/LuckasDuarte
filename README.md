@@ -45,12 +45,6 @@ Atualmente estou focado em **Engenharia de Dados**, desenvolvendo projetos com:
 🔹 **Data Pipeline de Vendas**  
 Pipeline ETL com Python + PostgreSQL + Dashboard
 
-🔹 **Automação de Relatórios Excel → Python**  
-Redução de tarefas manuais com scripts automatizados
-
-🔹 **Dashboard de Indicadores de Negócio**  
-Visualização estratégica de dados com Power BI
-
 *(Novos projetos são adicionados constantemente 🚀)*
 
 ---
