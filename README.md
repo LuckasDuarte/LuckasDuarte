@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas Duarte
 
-🎓 Estudante de Engenharia da Computação (UNIVESP)  
+🎓 Engenharia da Computação (UNIVESP)  
 📊 Foco em Engenharia de Dados, ETL e Analytics  
 🚀 Transformando dados brutos em informação para tomada de decisão  
 
